@@ -1,0 +1,2 @@
+!function(e){"function"==typeof define&&define.amd?define(e):e()}(function(){"use strict";window.NativeBridge&&window.newsreaderAppPlatform&&window.NativeBridge.setPullToRefreshEnabled(!1)});
+//# sourceMappingURL=foundation-game.1e71ba669a95430b01dcfd05e0946bdf1f7fcd81.js.map

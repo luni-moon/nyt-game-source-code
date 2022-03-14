@@ -1,3 +1,4 @@
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FLukas-Batema%2Fnyt-game-source-code)
 # Why I did this
 I heard that the New York Times may make their games paid for, which is like what they are doing with their newspaper and online stories.
 
